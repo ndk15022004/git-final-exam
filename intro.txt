@@ -1,6 +1,9 @@
 
 
-Hello, this is Nguyễn Duy Khanh
+Hello, this is Nguyễn Duy Khánh
+Xin chào, tôi là Nguyễn Duy Khánh
+Conflict resolved on 07/10/2025
+
 Tôi là Nguyễn Duy Khanh, sinh viên ngành Công nghệ Thông tin.
 Hiện đang học tại trường Đại học [Tên trường của bạn].
 Tôi yêu thích lập trình và mong muốn trở thành một lập trình viên giỏi.
