@@ -1,9 +1,18 @@
 
 
-Kế hoạch học tập:
-- Ôn lại các lệnh Git và quy trình làm việc nhóm.
-- Tìm hiểu thêm về Git branching, merge, và rebase.
-- Thực hành sử dụng GitHub Actions tự động hóa.
-- Nâng cao kỹ năng đọc hiểu code đồng đội.
-- Hoàn thiện đồ án cuối kỳ thật tốt.
+Giới thiệu cá nhân:
+Tôi là Nguyễn Duy Khánh, sinh viên ngành Công nghệ Thông tin.
+Hiện đang học tại trường Đại học [Tên trường của bạn].
+Tôi yêu thích lập trình và mong muốn trở thành một lập trình viên giỏi.
+Tôi luôn cố gắng học hỏi và phát triển bản thân mỗi ngày.
+
+Sở thích:
+1. Lập trình và khám phá công nghệ mới.
+2. Nghe nhạc và xem phim.
+3. Chơi thể thao, đặc biệt là bóng đá.
+
+Kỹ năng:
+1. Sử dụng Git và GitHub.
+2. Lập trình C#, Python.
+3. Làm việc nhóm và quản lý thời gian tốt.
 
