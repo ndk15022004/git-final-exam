@@ -1,6 +1,6 @@
 
 
-Xin chào, tôi là Nguyễn Duy Khanh
+Hello, this is Nguyễn Duy Khanh
 Tôi là Nguyễn Duy Khanh, sinh viên ngành Công nghệ Thông tin.
 Hiện đang học tại trường Đại học [Tên trường của bạn].
 Tôi yêu thích lập trình và mong muốn trở thành một lập trình viên giỏi.
