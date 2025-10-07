@@ -1,10 +1,9 @@
 
 
-<<<<<<< HEAD
-Hello, this is Nguyễn Duy Khanh
-=======
-Xin chào, tôi là Nguyễn Duy Khanh
->>>>>>> feature-update
+Hello, this is Nguyễn Duy Khánh
+Xin chào, tôi là Nguyễn Duy Khánh
+Conflict resolved on 07/10/2025
+
 
 
 Tôi là Nguyễn Duy Khanh, sinh viên ngành Công nghệ Thông tin.
