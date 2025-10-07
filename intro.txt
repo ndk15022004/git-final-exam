@@ -1,8 +1,11 @@
 
 
+<<<<<<< HEAD
 Hello, this is Nguyễn Duy Khanh
+=======
 Xin chào, tôi là Nguyễn Duy Khanh
-Conflict resolved on 07/10/2025
+>>>>>>> feature-update
+
 
 Tôi là Nguyễn Duy Khanh, sinh viên ngành Công nghệ Thông tin.
 Hiện đang học tại trường Đại học [Tên trường của bạn].
